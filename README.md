@@ -48,8 +48,6 @@ curl "http://localhost:8000/cts?request=GetValidReff&urn=urn:cts:perslit:foroogh
 curl "http://localhost:8000/cts?request=GetValidReff&urn=urn:cts:perslit:attar.mokhtarname"
 ```
 
-\*\*Query First URN that belongs to given URN
-
 **Other Queries**
 
 - `GetFirstUrn`: `curl "http://localhost:8000/cts?request=GetFirstUrn&urn=urn:cts:perslit:attar.mokhtarname"`
