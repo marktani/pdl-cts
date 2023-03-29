@@ -1,6 +1,8 @@
 # pdl-cts-server
 
-A CTS server for the Persian Digital Library (PDL) project.
+A CTS server for the [Persian Digital Library (PDL)](https://persdigumd.github.io/PDL/) project.
+
+This project was inspired by [CDLI Text Services](https://github.com/cdli-gh/cdli-cts-server) for the [Cuneiform Digital Library Collective](https://cdli.mpiwg-berlin.mpg.de/).
 
 ## Setup
 
@@ -58,10 +60,8 @@ curl "http://localhost:8000/cts?request=GetValidReff&urn=urn:cts:perslit:attar.m
 
 - [CTS](http://cts.informatik.uni-leipzig.de/Canonical_Text_Service.html)
 - [CTS URN Specification](https://github.com/cite-architecture/ctsurn_spec)
-- [Persian Digital Library (PDL)](https://persdigumd.github.io/PDL/)
-- This project was inspired by [CDLI Text Services](https://github.com/cdli-gh/cdli-cts-server) for the [Cuneiform Digital Library Collective](https://cdli.mpiwg-berlin.mpg.de/).
 
 ## Development / Next steps
 
 - [ ] Set up a Nemo UI, see [docs](https://flask-capitains-nemo.readthedocs.io/en/latest/).
-- [ ] Expand PDL dataset with all data from Ganjoor, see https://github.com/PersDigUMD/PDL/issues/1 and https://github.com/PersDigUMD/PDL/issues/2.
+- [ ] Expand PDL dataset with all data from Ganjoor, see https://github.com/PersDigUMD/PDL/issues/2 and https://github.com/PersDigUMD/PDL/issues/3.
