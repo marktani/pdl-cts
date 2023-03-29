@@ -1,4 +1,4 @@
-# pdl-cts
+# pdl-cts-server
 
 A CTS server for the Persian Digital Library (PDL) project.
 
