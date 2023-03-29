@@ -1,0 +1,6 @@
+[submodule "PDL"]
+	path = PDL
+	url = git@github.com:PersDigUMD/PDL.git
+[submodule "Nautilus"]
+	path = Nautilus
+	url = git@github.com:Capitains/Nautilus.git

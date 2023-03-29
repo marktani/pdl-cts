@@ -1,0 +1,7 @@
+cachelib==0.10.2
+capitains_nautilus==2.0.0 # currently not working, need to install the unpublished version with a submodule
+Flask==2.2.3
+Flask-Caching==1.11.1
+MyCapytain==3.0.2
+redis==4.5.4
+typing
