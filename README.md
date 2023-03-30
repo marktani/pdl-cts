@@ -60,6 +60,7 @@ curl "http://localhost:8000/cts?request=GetValidReff&urn=urn:cts:perslit:attar.m
 
 - [CTS](http://cts.informatik.uni-leipzig.de/Canonical_Text_Service.html)
 - [CTS URN Specification](https://github.com/cite-architecture/ctsurn_spec)
+- [CapiTainS Guidelines](http://capitains.org/pages/guidelines)
 
 ## Development / Next steps
 
